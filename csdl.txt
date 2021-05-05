@@ -2,7 +2,7 @@ INSERT INTO KhachHang
 VALUES
 ('1',N'Nguyễn Bảo Ngọc',N'Nội địa'N'Nữ','020100002314','0933111296'),
 ('2',N'Phạm Gia An',N'Nội địa','Nam','','0908475290'),
-('3',N'Nguyễn Gia Nguyên','Nam','079000003541','0923035130'),
+('3',N'Nguyễn Gia Nguyên',N'Nội địa','Nam','079000003541','0923035130'),
 ('4',N'Đoàn Diễm My',N'Nội địa', N'Nữ','','0975385853'),
 ('5',N'Phan Nguyễn Duy Khánh',N'Nội địa','Nam','07930000512','0120780745'),
 ('6',N'Đặng Minh Quân',N'Nội địa','Nam','','0986810782'),
@@ -17,12 +17,12 @@ INSERT INTO KhachHang
 VALUES
 ('12',N'Nguyễn Thị Hương Giang',N'Nội địa',N'Nữ','079300008941','0923084987'),
 ('13','Max Crystal',N'Quốc tế','Nam','','0969361643'),
-('14',N'Lê Nhật Minh',N'Nội địa','Nam','','0987290647'
+('14',N'Lê Nhật Minh',N'Nội địa','Nam','','0987290647'),
 ('15',N'Lý Thanh Xuân',N'Nội địa',N'Nữ','','0734822560'),
 ('16',N'Lê Nguyễn Hoàng Lan',N'Nội địa',N'Nữ','023100005681','0759210127'),
-('17',N'Phạm Diễm My',N'Nội địa',N'Nữ','','0977764750'
+('17',N'Phạm Diễm My',N'Nội địa',N'Nữ','','0977764750'),
 ('18',N'Cao Ngọc Yến Nhi',N'Nội địa',N'Nữ','','0727727266'),
-('19',N'Đặng Trúc Lâm',N'Nội địa','Nam','','0908018346'
+('19',N'Đặng Trúc Lâm',N'Nội địa','Nam','','0908018346'),
 ('20',N'Lê Thanh Trúc',N'Nội địa',N'Nữ','','0896632145'),
 ('21',N'Hồ Thanh Thảo',N'Nội địa',N'Nữ','','0954812359'),
 ('22',N'Ngô Quốc Tuấn',N'Nội địa''Nam','','0625663281')
